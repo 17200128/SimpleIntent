@@ -8,6 +8,7 @@
     android:orientation="vertical">
 
     <TextView
+        android:id="@+id/congr"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Congradulations"
@@ -26,6 +27,7 @@
     android:layout_marginTop="20dp"
     />
     <TextView
+        android:id="@+id/seescore"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="your score is"
